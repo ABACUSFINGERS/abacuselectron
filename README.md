@@ -1,2 +1,2 @@
 # abacuselectron
-Desktop App  Abacus
+Desktop App
